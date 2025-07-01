@@ -1,0 +1,3 @@
+101|Homest|22|AI/ML,python,powerBI|55,60,54
+102|Ramesh|23|java,stringboot,Advancejava|34,50,55
+103|Rakesh|23|flask,python,django|60,70,50
