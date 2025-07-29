@@ -1,0 +1,6 @@
+Patient_ID	Name	Department	Condition	Admission_Date	Discharge_Date
+P001	John	Cardiology	Stable	2024-05-01	2024-05-10
+P002	Alice	Neurology	Critical	2024-05-03	2024-05-20
+P003	Michael	Cardiology	Critical	2024-05-04	2024-05-14
+P004	Lisa	Oncology	Stable	2024-05-05	2024-05-18
+...	...	...	...	...
